@@ -1,16 +1,12 @@
 # flutter_connect_native
 
-A new Flutter project.
+Flutter ve Kotlin arasında bağlantı kurmayı temel seviyede göstermeye çalıştığım basic projedir. Ayrıca detaylara medium yazımdan ulaşabilirsiniz. 
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+https://github.com/edanurhmrc/flutter_connect_to_kotlin/assets/99151734/4f795630-4779-4f9d-b7e7-b86cedc3671c
+
